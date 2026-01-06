@@ -1,0 +1,4 @@
+- Docker used to containerize application
+- GitHub Actions used for CI/CD
+- Pipeline runs on every push
+- Can be deployed on cloud or Kubernetes
